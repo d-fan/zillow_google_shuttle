@@ -1,0 +1,3179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>GBus Shuttle Stops - Noogler</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Shuttle stops</name>
+			<Placemark>
+				<name>San Rafael </name>
+				<description><![CDATA[stopCode: SanRafael<br>Description: The shuttle stop is located at Smith Ranch Park & Ride Lot located at the intersection of Highway 101 and Lucas Valley and Smith Ranch Roads in San Rafael.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.<br>stopLatitude: 38.019841<br>stopLongitude: -122.536558]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SanRafael</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at Smith Ranch Park &amp; Ride Lot located at the intersection of Highway 101 and Lucas Valley and Smith Ranch Roads in San Rafael.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>38.019841</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.536558</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.53655800000001,38.019841,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mill Valley </name>
+				<description><![CDATA[stopCode: MillValley<br>Description: The shuttle stop is located at the bus stop in the Manzanita Park & Ride Lot at the intersection of Highways 1 and 101 in Mill Valley.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.<br>stopLatitude: 37.87952<br>stopLongitude: -122.516334]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>MillValley</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the bus stop in the Manzanita Park &amp; Ride Lot at the intersection of Highways 1 and 101 in Mill Valley.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.87952</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.516334</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.516334,37.87952,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Park Presidio @ Geary </name>
+				<description><![CDATA[stopCode: Presidio<br>Description: The shuttle stop is located on Park Presidio just south of Geary at the Muni stop.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.<br>stopLatitude: 37.780259<br>stopLongitude: -122.472442]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Presidio</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Park Presidio just south of Geary at the Muni stop.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.780259</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.472442</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.472442,37.780259,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19th @ Kirkham </name>
+				<description><![CDATA[stopCode: 19Kirkham<br>Description: The shuttle stop is located on 19th Ave. & Kirkham at the MUNI stop north of Kirkham.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.<br>stopLatitude: 37.760079<br>stopLongitude: -122.477024]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>19Kirkham</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on 19th Ave. &amp; Kirkham at the MUNI stop north of Kirkham.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.760079</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.477024</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.477024,37.760079,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19th @ Wawona</name>
+				<description><![CDATA[stopCode: 19Taraval<br>Description: The shuttle stop is located on 19th Ave & Wawona at the Muni stop north of Wawona.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.<br>stopLatitude: 37.73771<br>stopLongitude: -122.475441]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>19Taraval</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on 19th Ave &amp; Wawona at the Muni stop north of Wawona.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.73771</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.475441</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.475441,37.73771,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lombard @ Pierce</name>
+				<description><![CDATA[stopCode: Lom<br>Description: The shuttle stop is located on the SE corner of Lombard @ Pierce in front of the IHOP. Please see the "SF: Lombard/Van Ness" schedule tab.<br><br>stopLatitude: 37.799374<br>stopLongitude: -122.43905]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Lom</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on the SE corner of Lombard @ Pierce in front of the IHOP. Please see the "SF: Lombard/Van Ness" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.799374</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.43905</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.43905,37.799374,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Van Ness @ Union</name>
+				<description><![CDATA[stopCode: VanUnion<br>Description: The shuttle stop is located on Van Ness @ Union in the South West corner white curb passenger loading zone. Please see the "SF: Lombard/Van Ness" schedule tab.<br><br>stopLatitude: 37.79848<br>stopLongitude: -122.424071]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>VanUnion</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Van Ness @ Union in the South West corner white curb passenger loading zone. Please see the "SF: Lombard/Van Ness" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.79848</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.424071</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.42407100000001,37.79848,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Powell @ Union</name>
+				<description><![CDATA[stopCode: Powell<br>Description: The shuttle stop is located on Powell St just north of Union. See "SF: Powell/SF Office/Soma" schedule tab.<br><br>stopLatitude: 37.800459<br>stopLongitude: -122.410902]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Powell</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Powell St just north of Union. See "SF: Powell/SF Office/Soma" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.800459</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.410902</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.410902,37.800459,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Van Ness @ Sacramento</name>
+				<description><![CDATA[stopCode: VanSac<br>Description: The shuttle will pick up on southbound Van Ness just south of Sacramento. We will be sharing the MUNI stop. Please be ready to load as the bus arrives with your badge visible. Please see the "SF: Lombard/Van Ness" schedule tab.<br><br>stopLatitude: 37.790891<br>stopLongitude: -122.422591]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>VanSac</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle will pick up on southbound Van Ness just south of Sacramento. We will be sharing the MUNI stop. Please be ready to load as the bus arrives with your badge visible. Please see the "SF: Lombard/Van Ness" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.790891</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.422591</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.42259100000001,37.790891,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Polk St @ Post</name>
+				<description><![CDATA[stopCode: Polk@post<br>Description: Located on north bound Polk St in the MUNI zone North of Post for AM and PM. See "SF: Stanyan/Hayes/Polk/Civic" schedule tab.<br><br>stopLatitude: 37.78703<br>stopLongitude: -122.41992]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Polk@post</value>
+					</Data>
+					<Data name='Description'>
+						<value>Located on north bound Polk St in the MUNI zone North of Post for AM and PM. See "SF: Stanyan/Hayes/Polk/Civic" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.78703</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.41992</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.41992,37.78703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Civic Center</name>
+				<description><![CDATA[stopCode: CivicCtr<br>Description: The AM pick up is in front of Chase Bank on 8th south of market. PM drop off is on north 9th Ave. just south of Market St. See "SF: Stanyan/Hayes/Polk/Civic" schedule tab.<br><br>stopLatitude: 37.778285<br>stopLongitude: -122.414314]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>CivicCtr</value>
+					</Data>
+					<Data name='Description'>
+						<value>The AM pick up is in front of Chase Bank on 8th south of market. PM drop off is on north 9th Ave. just south of Market St. See "SF: Stanyan/Hayes/Polk/Civic" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.778285</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.414314</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.414314,37.778285,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Divisadero @ California</name>
+				<description><![CDATA[stopCode: DivisCal<br>Description: Pick up is at the corner of Divisadero and California, in front of Wild Hare restaurant.<br>stopLatitude: 37.78795<br>stopLongitude: -122.440462]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>DivisCal</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the corner of Divisadero and California, in front of Wild Hare restaurant.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.78795</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.440462</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.44046199999998,37.78795,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Divisadero @ Eddy</name>
+				<description><![CDATA[stopCode: DivisEddy<br>Description: Pick up is at the VTA stop, Located Southbound on Divisadero in front of Divisadero Heights Cleaner.<br>stopLatitude: 37.780452<br>stopLongitude: -122.438954]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>DivisEddy</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the VTA stop, Located Southbound on Divisadero in front of Divisadero Heights Cleaner.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.780452</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.438954</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.43895400000001,37.780452,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Divisadero @ Haight </name>
+				<description><![CDATA[stopCode: DivisHaigh<br>Description: Pick up is at the VTA stop, Located Southbound on Divisadero in front of Superette Market.<br>stopLatitude: 37.771099<br>stopLongitude: -122.437137]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>DivisHaigh</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the VTA stop, Located Southbound on Divisadero in front of Superette Market.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.771099</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.437137</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.43713700000002,37.771099,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stanyan @ Waller</name>
+				<description><![CDATA[stopCode: Stanyan<br>Description: The shuttle stop is located on southbound Stanyan just north of Waller in the Muni zone. See "SF: Stanyan/Hayes/Polk/Civic" schedule tab.<br><br>stopLatitude: 37.768602<br>stopLongitude: -122.453531]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Stanyan</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on southbound Stanyan just north of Waller in the Muni zone. See "SF: Stanyan/Hayes/Polk/Civic" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.768602</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.453531</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.45353100000001,37.768602,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hayes @ Steiner </name>
+				<description><![CDATA[stopCode: Hayes<br>Description: The shuttle stop is located at Hayes St. at Steiner. (South side of Hayes) See "SF: Stanyan/Hayes/Polk/Civic" schedule tab.<br><br>stopLatitude: 37.775608<br>stopLongitude: -122.43251]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Hayes</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at Hayes St. at Steiner. (South side of Hayes) See "SF: Stanyan/Hayes/Polk/Civic" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.775608</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.43251</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.43251,37.775608,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Church @ 15th</name>
+				<description><![CDATA[stopCode: 14Market<br>Description: The shuttle stop is located at the white loading zone in front of the Church St Cafe. See "SF: Mission" schedule tab.<br><br>stopLatitude: 37.766241<br>stopLongitude: -122.428993]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>14Market</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the white loading zone in front of the Church St Cafe. See "SF: Mission" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.766241</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.428993</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.428993,37.766241,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18th @ Church</name>
+				<description><![CDATA[stopCode: 18Dolores<br>Description: The AM shuttle stop is located on the SE corner of 18th @ Church at the muni stop (Temporary). PM: Will drop off on the NW corner of 18th @ Dolores. See "SF: Mission" schedule tab.<br><br>stopLatitude: 37.761282<br>stopLongitude: -122.428195]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>18Dolores</value>
+					</Data>
+					<Data name='Description'>
+						<value>The AM shuttle stop is located on the SE corner of 18th @ Church at the muni stop (Temporary). PM: Will drop off on the NW corner of 18th @ Dolores. See "SF: Mission" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.761282</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.428195</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.428195,37.761282,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18th @ Castro</name>
+				<description><![CDATA[stopCode: 18Castro<br>Description: The shuttle stop is located north of 18th, outside of Walgreens. Due to construction and MTA requirements this stop is subject to change. The PM drop off is north of Market in front of the Pottery Barn.<br><br>stopLatitude: 37.761045<br>stopLongitude: -122.435077]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>18Castro</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located north of 18th, outside of Walgreens. Due to construction and MTA requirements this stop is subject to change. The PM drop off is north of Market in front of the Pottery Barn.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.761045</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.435077</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.43507700000002,37.761045,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24th @ Church </name>
+				<description><![CDATA[stopCode: 24Church<br>Description: The shuttle stop is located at 24th @ Church. See "SF: Noe Valley/Glen Park" schedule tab.<br><br>stopLatitude: 37.751598<br>stopLongitude: -122.427704]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>24Church</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at 24th @ Church. See "SF: Noe Valley/Glen Park" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.751598</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.427704</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.42770399999999,37.751598,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Valencia @ 24th</name>
+				<description><![CDATA[stopCode: 24ValenYT<br>Description: The AM shuttle stop is located on the SW corner of Valencia @ 24th in front of the coffee shop. The PM drop-off is 24th @ Guerrero at the NE corner. See "SF: Mission" schedule tab.<br>stopLatitude: 37.751857<br>stopLongitude: -122.420786]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>24ValenYT</value>
+					</Data>
+					<Data name='Description'>
+						<value>The AM shuttle stop is located on the SW corner of Valencia @ 24th in front of the coffee shop. The PM drop-off is 24th @ Guerrero at the NE corner. See "SF: Mission" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.751857</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.420786</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.42078599999999,37.751857,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Castro @ 25th</name>
+				<description><![CDATA[stopCode: 24Castro<br>Description: The shuttle stop is located on northbound Castro just south of 25th. See "SF: Noe Valley/Glen Park" schedule tab.<br><br>stopLatitude: 37.749492<br>stopLongitude: -122.433813]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>24Castro</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on northbound Castro just south of 25th. See "SF: Noe Valley/Glen Park" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.749492</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.433813</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.433813,37.749492,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bryant @ 18th</name>
+				<description><![CDATA[stopCode: Bryant18<br>Description: The shuttle stop is located on Bryant Street in the Muni Bus Stop just north of 18th Street. See "SF: Potrero Hill" schedule tab.<br><br>stopLatitude: 37.761862<br>stopLongitude: -122.410226]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Bryant18</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Bryant Street in the Muni Bus Stop just north of 18th Street. See "SF: Potrero Hill" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.761862</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.410226</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.410226,37.761862,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bryant @ 22nd</name>
+				<description><![CDATA[stopCode: Potrero23<br>Description: The shuttle stop is located on Bryant Street in the Muni Bus Stop just south of 22nd Street. See "SF: Potrero Hill" schedule tab.<br><br>stopLatitude: 37.755719<br>stopLongitude: -122.409514]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Potrero23</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Bryant Street in the Muni Bus Stop just south of 22nd Street. See "SF: Potrero Hill" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.755719</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.409514</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.409514,37.755719,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cesar Chavez @ Valencia</name>
+				<description><![CDATA[stopCode: Chavezval<br>Description: Pick up is at the corner of Cesar Chavez and Velencia, In front of The Rabbit Hole Parking lot.<br>stopLatitude: 37.748043<br>stopLongitude: -122.419934]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Chavezval</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the corner of Cesar Chavez and Velencia, In front of The Rabbit Hole Parking lot.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.748043</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.419934</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.41993400000001,37.748043,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cesar Chavez @ Folsom</name>
+				<description><![CDATA[stopCode: ChavezFol<br>Description: Pick up is at the corner of Cesar Chavez and Folsom going eastbound.<br>stopLatitude: 37.74815<br>stopLongitude: -122.413958]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>ChavezFol</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the corner of Cesar Chavez and Folsom going eastbound.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.74815</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.413958</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.413958,37.74815,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cesar Chavez @ Florida</name>
+				<description><![CDATA[stopCode: ChavezFlo<br>Description: Pick up is at the VTA stop, Located Eastbound on Cesar Chavez and Florida Street.<br>stopLatitude: 37.748267<br>stopLongitude: -122.409764]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>ChavezFlo</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the VTA stop, Located Eastbound on Cesar Chavez and Florida Street.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.748267</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.409764</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.409764,37.748267,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30th @ Church</name>
+				<description><![CDATA[stopCode: 30Church<br>Description: Pick up is at the VTA stop, located eastbound at the corner of 30 and Church.<br>stopLatitude: 37.742034<br>stopLongitude: -122.426736]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>30Church</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the VTA stop, located eastbound at the corner of 30 and Church.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.742034</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.426736</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.426736,37.742034,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Jose @ Dolores</name>
+				<description><![CDATA[stopCode: 30Dolores<br>Description: The shuttle stop is located on southbound San Jose in the white zone at Dolores. See "SF: Noe Valley/Glen Park" schedule tab.<br><br>stopLatitude: 37.741083<br>stopLongitude: -122.423944]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>30Dolores</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on southbound San Jose in the white zone at Dolores. See "SF: Noe Valley/Glen Park" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.741083</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.423944</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.42394400000002,37.741083,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SF Office Pick Up</name>
+				<description><![CDATA[stopCode: SFO Pickup<br>Description: The shuttle stop is located at the MUNI bus stop on Harrison at the corner of The Embarcadero. Physical address is 1 Harrison St. The bus will be facing towards The Embarcadero. See "SF: Powell/SF Office/Soma" schedule tab.<br>stopLatitude: 37.789243<br>stopLongitude: -122.388961]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SFO Pickup</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the MUNI bus stop on Harrison at the corner of The Embarcadero. Physical address is 1 Harrison St. The bus will be facing towards The Embarcadero. See "SF: Powell/SF Office/Soma" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.789243</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.388961</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.38896100000001,37.789243,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Soma</name>
+				<description><![CDATA[stopCode: Soma<br>Description: The shuttle stop is located on Townsend on the northeast side of 4th St in front of the Creamery. See "SF: Powell/SF Office/Soma" schedule tab.<br><br>stopLatitude: 37.777329<br>stopLongitude: -122.394867]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Soma</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Townsend on the northeast side of 4th St in front of the Creamery. See "SF: Powell/SF Office/Soma" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.777329</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.394867</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.394867,37.777329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jackson Playground </name>
+				<description><![CDATA[stopCode: JackPlay<br>Description: The shuttle stop is located on 17th Street at the Muni Bus Stop next to Thee Parkside Bar, across the street from the Jackson Playground baseball diamond. See "SF: Potrero Hill" schedule tab.<br>stopLatitude: 37.764977<br>stopLongitude: -122.39998]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>JackPlay</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on 17th Street at the Muni Bus Stop next to Thee Parkside Bar, across the street from the Jackson Playground baseball diamond. See "SF: Potrero Hill" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.764977</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.39998</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.39997999999999,37.764977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>201 Toland </name>
+				<description><![CDATA[stopCode: 201Toland<br>Description: The shuttle stop is located on Toland in front of the Toland St. entrance to the lot. Directions: From N-101 take Caesar Chavez/Portrero Exit, Right on Jerrold Ave, Left on Toland St, Right on Galvez Ave, enter gate on right From S-101 take Caesar Chavez/Bayshore Blvd Exit, Continue on Eastbound Caesar Chavez, Right on Evans Ave, Right on Toland St, Left on Galvez Ave, enter gate on right GATE CODE #1420# (Dial slowly)<br><br>stopLatitude: 37.745667<br>stopLongitude: -122.397201]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>201Toland</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Toland in front of the Toland St. entrance to the lot. Directions: From N-101 take Caesar Chavez/Portrero Exit, Right on Jerrold Ave, Left on Toland St, Right on Galvez Ave, enter gate on right From S-101 take Caesar Chavez/Bayshore Blvd Exit, Continue on Eastbound Caesar Chavez, Right on Evans Ave, Right on Toland St, Left on Galvez Ave, enter gate on right GATE CODE #1420# (Dial slowly)
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.745667</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.397201</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.397201,37.745667,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Glen Park Bart </name>
+				<description><![CDATA[stopCode: GlenPark<br>Description: The shuttle stop is located on Diamond at the SE corner of Diamond and Bosworth Streets. Directions: Exit the station and walk up the stairs. This pickup spot is for mass transit and drop-offs. You should be on Diamond Street facing west. *Please form a line near the concrete benches starting at the tree and ending at the top of the staircase. Keep the sidewalk clear for BART passengers. See "SF: Noe Valley/Glen Park" schedule tab.<br><br>stopLatitude: 37.733195<br>stopLongitude: -122.43413]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>GlenPark</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Diamond at the SE corner of Diamond and Bosworth Streets. Directions: Exit the station and walk up the stairs. This pickup spot is for mass transit and drop-offs. You should be on Diamond Street facing west. *Please form a line near the concrete benches starting at the tree and ending at the top of the staircase. Keep the sidewalk clear for BART passengers. See "SF: Noe Valley/Glen Park" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.733195</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.43413</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.43412999999998,37.733195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Bruno Bart</name>
+				<description><![CDATA[stopCode: SanBrunBrt<br>Description: The shuttle stop is lcoated outside the entrance to the San Bruno BART station, at the bus depot in the area between the stop sign and bus stop #7. Look for a bus with a "YouTube" paper sign in the window. Service is provided by Storer Coachways.<br><br>stopLatitude: 37.636916<br>stopLongitude: -122.415633]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SanBrunBrt</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is lcoated outside the entrance to the San Bruno BART station, at the bus depot in the area between the stop sign and bus stop #7. Look for a bus with a "YouTube" paper sign in the window. Service is provided by Storer Coachways.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.636916</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.415633</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.415633,37.636916,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Bruno Cal Train</name>
+				<description><![CDATA[stopCode: SanBrunoCT<br>Description: The shuttle stop is located on the Huntington Ave side of the elevated platform in the bus cutout just south of San Bruno Avenue.<br><br>stopLatitude: 37.630411<br>stopLongitude: -122.4118]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SanBrunoCT</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on the Huntington Ave side of the elevated platform in the bus cutout just south of San Bruno Avenue.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.630411</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.4118</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.41180000000001,37.630411,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Millbrae BART</name>
+				<description><![CDATA[stopCode: Milbrae<br>Description: The shuttle stop is located at SamTrans Bus Bay 11. No designated parking at this location.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.<br><br>stopLatitude: 37.60104<br>stopLongitude: -122.385549]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Milbrae</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at SamTrans Bus Bay 11. No designated parking at this location.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.
+</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.60104</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.385549</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.385549,37.60104,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Burlingame Golf Center</name>
+				<description><![CDATA[stopCode: Brlgame<br>Description: The shuttle stop is located at the semicircle in front of the golf center. Parking available in the back of the lot.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.<br>stopLatitude: 37.590026<br>stopLongitude: -122.352608]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Brlgame</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the semicircle in front of the golf center. Parking available in the back of the lot.  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.590026</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.352608</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.352608,37.590026,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Mateo Events Center</name>
+				<description><![CDATA[stopCode: San Mateo<br>Description: The shuttle will pick-up in the parking area. Directions: Access the parking area from Saratoga Drive, make a hard right, and look for the Google sign ****Must obtain a hang tag permit****  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.<br>stopLatitude: 37.547016<br>stopLongitude: -122.299549]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>San Mateo</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle will pick-up in the parking area. Directions: Access the parking area from Saratoga Drive, make a hard right, and look for the Google sign ****Must obtain a hang tag permit****  Please see the "92/YT/Millbrae/Toland/19/Marin" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.547016</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.299549</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.299549,37.547016,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Carlos Caltrain</name>
+				<description><![CDATA[stopCode: SanCarlos<br>Description: The shuttle stop is located at the bus shelter in front of the Caltrain Station on the Caltrain side of El Camino. We do not have specifically dedicated parking at this stop, but parking is available in the lot for ~$4 a day. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.507822<br>stopLongitude: -122.260658]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SanCarlos</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the bus shelter in front of the Caltrain Station on the Caltrain side of El Camino. We do not have specifically dedicated parking at this stop, but parking is available in the lot for ~$4 a day. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.507822</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.260658</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.260658,37.507822,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Redwood City P&amp;R</name>
+				<description><![CDATA[stopCode: RWC PR<br>Description: The P&R lot is at the corner of Veteran’s Blvd and Whipple Ave. The shuttle stop is located on the far side of the parking lot entrance, on the strip of road nearest the SW corner of the IHOP parking lot. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.494946<br>stopLongitude: -122.234584]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>RWC PR</value>
+					</Data>
+					<Data name='Description'>
+						<value>The P&amp;R lot is at the corner of Veteran’s Blvd and Whipple Ave. The shuttle stop is located on the far side of the parking lot entrance, on the strip of road nearest the SW corner of the IHOP parking lot. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.494946</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.234584</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.23458399999998,37.494946,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palo Alto Caltrain </name>
+				<description><![CDATA[stopCode: PaloAltoCT<br>Description: The shuttle stop is located in the bus loading zone, north of the tracks on Alma Street, between Lytton Avenue and University Avenue. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.443927<br>stopLongitude: -122.165093]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>PaloAltoCT</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located in the bus loading zone, north of the tracks on Alma Street, between Lytton Avenue and University Avenue. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.443927</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.165093</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.165093,37.443927,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palo Alto Quarry Road</name>
+				<description><![CDATA[stopCode: PaloAltoQR<br>Description: The shuttle stop is located at the Marguerite bus stop on north bound Quarry Road between Arboretum and Vineyard. Note that there is no Google designated parking for this stop. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.438345<br>stopLongitude: -122.171472]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>PaloAltoQR</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the Marguerite bus stop on north bound Quarry Road between Arboretum and Vineyard. Note that there is no Google designated parking for this stop. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.438345</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.171472</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.17147200000001,37.438345,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>El Camino @ Oxford </name>
+				<description><![CDATA[stopCode: Oxford<br>Description: The AM shuttle stop is located at the VTA bus stop, on El Camino Real, just south of Oxford Avenue. The PM shuttle stop is located at the VTA bus stop in front of Valero gas station. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.426756<br>stopLongitude: -122.148297]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Oxford</value>
+					</Data>
+					<Data name='Description'>
+						<value>The AM shuttle stop is located at the VTA bus stop, on El Camino Real, just south of Oxford Avenue. The PM shuttle stop is located at the VTA bus stop in front of Valero gas station. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.426756</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.148297</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.148297,37.426756,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>El Camino @ Barron </name>
+				<description><![CDATA[stopCode: Barron<br>Description: The AM shuttle stop is located at the VTA bus stop between Curtner Avenue and Barron Avenue. The PM shuttle stop is located in front of Happy Feet Foot Spa on El Camino Real.  See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.                                                                                     <br>stopLatitude: 37.417756<br>stopLongitude: -122.132168]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Barron</value>
+					</Data>
+					<Data name='Description'>
+						<value>The AM shuttle stop is located at the VTA bus stop between Curtner Avenue and Barron Avenue. The PM shuttle stop is located in front of Happy Feet Foot Spa on El Camino Real.  See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.                                                                                     </value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.417756</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.132168</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.13216799999998,37.417756,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West Charleston </name>
+				<description><![CDATA[stopCode: WCharles<br>Description: AM pickup at the VTA bus stop just east of El Camino. The PM shuttle stop is located in front of the Enterprise car rental on El Camino Real. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.                                                                                       <br>stopLatitude: 37.411107<br>stopLongitude: -122.122382]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>WCharles</value>
+					</Data>
+					<Data name='Description'>
+						<value>AM pickup at the VTA bus stop just east of El Camino. The PM shuttle stop is located in front of the Enterprise car rental on El Camino Real. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.                                                                                       </value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.411107</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.122382</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.12238200000002,37.411107,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rengstorff @ Old Middlefield</name>
+				<description><![CDATA[stopCode: RengMid<br>Description: The shuttle stop is located on northbound Rengstorff Ave at the VTA stop just south of Old Middlefield. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.414088<br>stopLongitude: -122.092622]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>RengMid</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on northbound Rengstorff Ave at the VTA stop just south of Old Middlefield. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.414088</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.092622</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.092622,37.414088,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rengstorff @ San Luis</name>
+				<description><![CDATA[stopCode: RengSan<br>Description: The shuttle stop is located on northbound Rengstorff Ave at the VTA stop just northeast of San Luis Ave. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.409048<br>stopLongitude: -122.09393]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>RengSan</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on northbound Rengstorff Ave at the VTA stop just northeast of San Luis Ave. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.409048</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.09393</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.09393,37.409048,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Antonio CalTrain</name>
+				<description><![CDATA[stopCode: SanAn CalT<br>Description: The shuttle stop is located in the bus cutout on Showers Drive. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.406982<br>stopLongitude: -122.107087]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SanAn CalT</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located in the bus cutout on Showers Drive. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.406982</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.107087</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.10708700000002,37.406982,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>California @ Ortega (Klein Park)</name>
+				<description><![CDATA[stopCode: CA@Ortg<br>Description: The shuttle stop is located on eastbound California St at the VTA stop in front of Klein Park See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.400885<br>stopLongitude: -122.103197]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>CA@Ortg</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on eastbound California St at the VTA stop in front of Klein Park See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.400885</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.103197</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.10319700000001,37.400885,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rengstorff @ California</name>
+				<description><![CDATA[stopCode: RengCal<br>Description: The shuttle stop is located on northbound Rengstorff Ave at the VTA stop just north of California Street. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.399595<br>stopLongitude: -122.099565]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>RengCal</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on northbound Rengstorff Ave at the VTA stop just north of California Street. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.399595</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.099565</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.099565,37.399595,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>El Camino @ Castro</name>
+				<description><![CDATA[stopCode: Castro<br>Description: All MTV-bound buses will pick up on westbound El Camino just west of Castro St. in the VTA bus stop. All SVL-bound buses will pick-up on eastbound El Camino just east of Castro. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.386178<br>stopLongitude: -122.084507]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Castro</value>
+					</Data>
+					<Data name='Description'>
+						<value>All MTV-bound buses will pick up on westbound El Camino just west of Castro St. in the VTA bus stop. All SVL-bound buses will pick-up on eastbound El Camino just east of Castro. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.386178</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.084507</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.084507,37.386178,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>El Camino @ Grant </name>
+				<description><![CDATA[stopCode: Grant<br>Description: All MTV-bound buses will pick up at the VTA stop on El Camino in front of Americas Tire. All SVL-bound buses will pick-up at El Camino at Bay Street in front of the Valero gas station. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.380774<br>stopLongitude: -122.073539]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Grant</value>
+					</Data>
+					<Data name='Description'>
+						<value>All MTV-bound buses will pick up at the VTA stop on El Camino in front of Americas Tire. All SVL-bound buses will pick-up at El Camino at Bay Street in front of the Valero gas station. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.380774</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.073539</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.07353899999998,37.380774,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>El Camino @ Dale </name>
+				<description><![CDATA[stopCode: Dale<br>Description: The shuttle stop is located at the VTA Bus Stop just after Sylvan Avenue before Dale Avenue. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.37627<br>stopLongitude: -122.06288]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Dale</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the VTA Bus Stop just after Sylvan Avenue before Dale Avenue. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.37627</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.06288</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.06288,37.37627,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>El Camino @ S. Mary</name>
+				<description><![CDATA[stopCode: ElCamMar<br>Description: The shuttle stop is located past El Pollo Loco @ VTA bus stop. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.371449<br>stopLongitude: -122.047457]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>ElCamMar</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located past El Pollo Loco @ VTA bus stop. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.371449</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.047457</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.04745699999998,37.371449,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Central @ N. Mary</name>
+				<description><![CDATA[stopCode: CentrlMary<br>Description: The shuttle stop is located on Central Expressway, just before N. Mary. (North Side of Central Expwy). See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.386906<br>stopLongitude: -122.043251]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>CentrlMary</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Central Expressway, just before N. Mary. (North Side of Central Expwy). See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.386906</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.043251</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.043251,37.386906,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>El Camino @ Mathilda</name>
+				<description><![CDATA[stopCode: ElCamMat<br>Description: Pick up is at the VTA stop, Located Eastbound on El Camino in front of P.F. Changs.<br>stopLatitude: 37.368752<br>stopLongitude: -122.036125]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>ElCamMat</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the VTA stop, Located Eastbound on El Camino in front of P.F. Changs.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.368752</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.036125</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.03612500000001,37.368752,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>South Sunnyvale &amp; Old SF</name>
+				<description><![CDATA[stopCode: Old SF<br>Description: The shuttle stop is located on South Sunnyvale Avenue at the intersection with Old San Francisco Road. The stop is on the sidewalk of the traffic island median between east and west bound Old San Francisco Road. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.368156<br>stopLongitude: -122.031635]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Old SF</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on South Sunnyvale Avenue at the intersection with Old San Francisco Road. The stop is on the sidewalk of the traffic island median between east and west bound Old San Francisco Road. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.368156</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.031635</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.031635,37.368156,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mathilda @ W. California </name>
+				<description><![CDATA[stopCode: Mathilda<br>Description: The shuttle stop is located just past California, on Mathilda. (NorthEast Corner). See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.382486<br>stopLongitude: -122.032464]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Mathilda</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located just past California, on Mathilda. (NorthEast Corner). See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.382486</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.032464</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.03246400000002,37.382486,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sunnyvale Ave @ Evelyn</name>
+				<description><![CDATA[stopCode: SunnyEve<br>Description: The shuttle stop is located at Sunnyvale at Evelyn at the VTA bus bench between the railroad tracks and E. Evelyn Ave on S. Sunnyvale Ave. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.<br>stopLatitude: 37.377609<br>stopLongitude: -122.028258]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SunnyEve</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at Sunnyvale at Evelyn at the VTA bus bench between the railroad tracks and E. Evelyn Ave on S. Sunnyvale Ave. See "Mountain View/Sunnyvale/Palo Alto/Peninsula" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.377609</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.028258</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.028258,37.377609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>N. Fair Oaks @ E. Duane</name>
+				<description><![CDATA[stopCode: FairDuane<br>Description: Pick up is at the VTA stop, Northbound on N. Fair Oaks past E. Duane.<br>stopLatitude: 37.389215<br>stopLongitude: -122.014878]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>FairDuane</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the VTA stop, Northbound on N. Fair Oaks past E. Duane.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.389215</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.014878</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.014878,37.389215,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>N. Fair Oaks @ E. Arques</name>
+				<description><![CDATA[stopCode: FairArques<br>Description: Pick up is at the VTA stop, Northbound on N. Fair Oaks past E Arques.<br>stopLatitude: 37.381979<br>stopLongitude: -122.018279]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>FairArques</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the VTA stop, Northbound on N. Fair Oaks past E Arques.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.381979</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.018279</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.018279,37.381979,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E. Evelyn @ S. Fair Oaks</name>
+				<description><![CDATA[stopCode: FairOaks<br>Description: Pick up is at the VTA stop, Westbound on E. Evelyn before S. Fair Oaks Avenue.<br>stopLatitude: 37.373278<br>stopLongitude: -122.020473]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>FairOaks</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the VTA stop, Westbound on E. Evelyn before S. Fair Oaks Avenue.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.373278</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.020473</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.02047300000001,37.373278,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E. Evelyn @ S. Wolfe</name>
+				<description><![CDATA[stopCode: EveWolfe<br>Description: Pick up is at the VTA stop, Westbound on E. Evelyn past S. Wolfe.<br>stopLatitude: 37.370837<br>stopLongitude: -122.01515]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>EveWolfe</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the VTA stop, Westbound on E. Evelyn past S. Wolfe.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.370837</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.01515</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.01515,37.37083700000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>S. Wolfe @ Iris</name>
+				<description><![CDATA[stopCode: IrisWolfe<br>Description: Pick up is at the VTA stop, Northbound on the corner of S. Wolfe and Iris.<br>stopLatitude: 37.362658<br>stopLongitude: -122.014133]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>IrisWolfe</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the VTA stop, Northbound on the corner of S. Wolfe and Iris.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.362658</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.014133</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.014133,37.362658,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>S. Wolfe @ Fremont</name>
+				<description><![CDATA[stopCode: Swolfe<br>Description: Pick up is at the VTA stop, Northbound on S. Wolfe after E. Fremont Avenue.<br>stopLatitude: 37.352507<br>stopLongitude: -122.01413]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Swolfe</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the VTA stop, Northbound on S. Wolfe after E. Fremont Avenue.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.352507</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.01413</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.01413,37.352507,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>N. Wolfe @ Pruneridge</name>
+				<description><![CDATA[stopCode: Nwolfe<br>Description: Pick up is at the VTA stop, Northbound on N. Wolfe Road across the street from Duke of Edinburgh<br>stopLatitude: 37.335021<br>stopLongitude: -122.014154]]></description>
+				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Nwolfe</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pick up is at the VTA stop, Northbound on N. Wolfe Road across the street from Duke of Edinburgh</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.335021</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.014154</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.014154,37.335021,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cupertino - Vallco</name>
+				<description><![CDATA[stopCode: Cupertino2<br>Description: The AM pick up is on the east side of the garage across from Friday's. Parking is permitted on levels 2 and 3. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.327831<br>stopLongitude: -122.015326]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Cupertino2</value>
+					</Data>
+					<Data name='Description'>
+						<value>The AM pick up is on the east side of the garage across from Friday's. Parking is permitted on levels 2 and 3. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.327831</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.015326</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.01532600000002,37.327831,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tasman @ Vienna</name>
+				<description><![CDATA[stopCode: Tasman@V<br>Description: Located on Tasman Dr in the VTA stop just east of Vienna Dr. No designated parking.<br>stopLatitude: 37.403492<br>stopLongitude: -122.000027]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Tasman@V</value>
+					</Data>
+					<Data name='Description'>
+						<value>Located on Tasman Dr in the VTA stop just east of Vienna Dr. No designated parking.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.403492</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.000027</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.000027,37.403492,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tasman @ Renaissance</name>
+				<description><![CDATA[stopCode: Tasman@R<br>Description: See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.411396<br>stopLongitude: -121.957978]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Tasman@R</value>
+					</Data>
+					<Data name='Description'>
+						<value>See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.411396</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.957978</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.957978,37.411396,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tasman @ Zanker</name>
+				<description><![CDATA[stopCode: Tasman@Z<br>Description: located on Tasman Dr in the VTA stop just west of Zanker Rd. No designated parking at this stop.<br>stopLatitude: 37.412568<br>stopLongitude: -121.937846]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Tasman@Z</value>
+					</Data>
+					<Data name='Description'>
+						<value>located on Tasman Dr in the VTA stop just west of Zanker Rd. No designated parking at this stop.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.412568</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.937846</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.93784600000001,37.412568,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>N. Fair Oaks @ E. Weddell</name>
+				<description><![CDATA[stopCode: NFairOaks<br>Description: Located on N. Fair Oaks Ave in the VTA stop just north of E. Weddell Dr. No designated parking.<br>stopLatitude: 37.399068<br>stopLongitude: -122.011788]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>NFairOaks</value>
+					</Data>
+					<Data name='Description'>
+						<value>Located on N. Fair Oaks Ave in the VTA stop just north of E. Weddell Dr. No designated parking.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.399068</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.011788</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.011788,37.399068,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rivermark </name>
+				<description><![CDATA[stopCode: Rivermark<br>Description: The shuttle stop is located on Lick Mill Boulevard just past Hope at the sidewalk cut-out in front of the Carlyle Apartment Complex, there is a 35 miles per hour sign there. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.401955<br>stopLongitude: -121.952858]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Rivermark</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Lick Mill Boulevard just past Hope at the sidewalk cut-out in front of the Carlyle Apartment Complex, there is a 35 miles per hour sign there. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.401955</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.952858</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.952858,37.401955,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Park </name>
+				<description><![CDATA[stopCode: NorthPark<br>Description: Passenger pick up on Zanker Road just past Alicante at the VTA bus stop (make a right off Alicante on to Zanker). See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.407635<br>stopLongitude: -121.935529]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>NorthPark</value>
+					</Data>
+					<Data name='Description'>
+						<value>Passenger pick up on Zanker Road just past Alicante at the VTA bus stop (make a right off Alicante on to Zanker). See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.407635</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.935529</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.935529,37.407635,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Moreland </name>
+				<description><![CDATA[stopCode: Moreland<br>Description: The shuttle stop is located on northbound Lick Mill just north of the intersection with Montague, at the 35 MPH sign. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.395499<br>stopLongitude: -121.943208]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Moreland</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on northbound Lick Mill just north of the intersection with Montague, at the 35 MPH sign. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.395499</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.943208</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.94320800000001,37.395499,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Crescent Village</name>
+				<description><![CDATA[stopCode: CrescVill<br>Description: The shuttle stop is located on the corner of Crescent Village Drive and Villagio St. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.403327<br>stopLongitude: -121.931499]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>CrescVill</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on the corner of Crescent Village Drive and Villagio St. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.403327</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.931499</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.931499,37.403327,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lawrence Expwy @ Oakmead</name>
+				<description><![CDATA[stopCode: Lawrence<br>Description: Located in the VTA stop on Lawrence Expwy, N of Oakmead Pkwy. No designated parking at this stop. <br>stopLatitude: 37.387672<br>stopLongitude: -121.995647]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Lawrence</value>
+					</Data>
+					<Data name='Description'>
+						<value>Located in the VTA stop on Lawrence Expwy, N of Oakmead Pkwy. No designated parking at this stop. </value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.387672</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.995647</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.995647,37.387672,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>El Camino @ Lawrence Expwy</name>
+				<description><![CDATA[stopCode: El Camino<br>Description: located in VTA stop on El Camino Real infront of Lawrence Sq. Shopping Center. No designated parking<br>stopLatitude: 37.352503<br>stopLongitude: -121.99382]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>El Camino</value>
+					</Data>
+					<Data name='Description'>
+						<value>located in VTA stop on El Camino Real infront of Lawrence Sq. Shopping Center. No designated parking</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.352503</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.99382</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.99382000000001,37.352503,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Monroe St. @ Los Padres</name>
+				<description><![CDATA[stopCode: Monroe St.<br>Description: Stop is located in the VTA stop on Monroe St just east of Los Padres. No designated parking<br>stopLatitude: 37.362227<br>stopLongitude: -121.963932]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Monroe St.</value>
+					</Data>
+					<Data name='Description'>
+						<value>Stop is located in the VTA stop on Monroe St just east of Los Padres. No designated parking</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.362227</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.963932</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.963932,37.362227,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santa Clara Civic Center</name>
+				<description><![CDATA[stopCode: SC Civic<br>Description: located in the VTA stop on Monroe St. S of Civic Center Dr., free street parking on Civic Center Dr.<br>stopLatitude: 37.353787<br>stopLongitude: -121.951188]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SC Civic</value>
+					</Data>
+					<Data name='Description'>
+						<value>located in the VTA stop on Monroe St. S of Civic Center Dr., free street parking on Civic Center Dr.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.353787</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.951188</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.95118800000002,37.353787,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Berryessa West</name>
+				<description><![CDATA[stopCode: BerryEssaW<br>Description: Shuttle pickup is in front of Panera Bread on Murphy Avenue. No designated parking. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.38349<br>stopLongitude: -121.89277]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>BerryEssaW</value>
+					</Data>
+					<Data name='Description'>
+						<value>Shuttle pickup is in front of Panera Bread on Murphy Avenue. No designated parking. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.38349</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.89277</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.89277000000001,37.38349,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Jose Flea Market</name>
+				<description><![CDATA[stopCode: SJFMarket<br>Description: Pickup is E of Sierra at VTA stop. Parking are the 1st two rows W of the corner of Sierra/Berryessa. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.36999<br>stopLongitude: -121.87898]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SJFMarket</value>
+					</Data>
+					<Data name='Description'>
+						<value>Pickup is E of Sierra at VTA stop. Parking are the 1st two rows W of the corner of Sierra/Berryessa. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.36999</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.87898</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.87897999999998,37.36999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Jose State</name>
+				<description><![CDATA[stopCode: SJSU<br>Description: The shuttle stop is located in the bus stop on East San Salvador at the intersection of East San Salvador and 5th Street.<br>stopLatitude: 37.331889<br>stopLongitude: -121.882195]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SJSU</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located in the bus stop on East San Salvador at the intersection of East San Salvador and 5th Street.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.331889</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.882195</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.88219500000001,37.331889,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parkmoor </name>
+				<description><![CDATA[stopCode: Parkmoor<br>Description: The AM shuttle stop is located outside the parking lot on Parkmoor Avenue near the driveway. Parking for this shuttle stop is located in the shopping center located at 1531 Parkmoor Ave, San Jose, CA 95128 with the 24 Hour fitness. Please park in the spaces in the southwest-most corner of the lot, away from the stores. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.316958<br>stopLongitude: -121.917508]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Parkmoor</value>
+					</Data>
+					<Data name='Description'>
+						<value>The AM shuttle stop is located outside the parking lot on Parkmoor Avenue near the driveway. Parking for this shuttle stop is located in the shopping center located at 1531 Parkmoor Ave, San Jose, CA 95128 with the 24 Hour fitness. Please park in the spaces in the southwest-most corner of the lot, away from the stores. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.316958</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.917508</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.917508,37.316958,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santana Row/Vall Fair </name>
+				<description><![CDATA[stopCode: SRow/VFair<br>Description: The AM shuttle stop is located in the turning lane just east of the Bank of America entrance. There is no designated shuttle rider parking at this stop. See "South Bay/Santa Cruz" schedule tab.                                                                                                                                                      <br>stopLatitude: 37.323537<br>stopLongitude: -121.945335]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SRow/VFair</value>
+					</Data>
+					<Data name='Description'>
+						<value>The AM shuttle stop is located in the turning lane just east of the Bank of America entrance. There is no designated shuttle rider parking at this stop. See "South Bay/Santa Cruz" schedule tab.                                                                                                                                                      </value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.323537</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.945335</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.945335,37.323537,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Curtner @ Almaden</name>
+				<description><![CDATA[stopCode: 87/Curtner<br>Description: Shuttle will pick up on Canoas Garden Ave N of Masonic Dr, Parking is West of Canoas Garden Ave at the Catherdral of Faith. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.29124<br>stopLongitude: -121.87296]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>87/Curtner</value>
+					</Data>
+					<Data name='Description'>
+						<value>Shuttle will pick up on Canoas Garden Ave N of Masonic Dr, Parking is West of Canoas Garden Ave at the Catherdral of Faith. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.29124</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.87296</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.87296,37.29124,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Campbell</name>
+				<description><![CDATA[stopCode: Campbell<br>Description: The shuttle stop is located in the parking lot of the Home Church at 1711 Winchester Blvd. Designated parking is in the north section of the lot, access via Winchester. Shuttle will pick up in the lot. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.291797<br>stopLongitude: -121.950151]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Campbell</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located in the parking lot of the Home Church at 1711 Winchester Blvd. Designated parking is in the north section of the lot, access via Winchester. Shuttle will pick up in the lot. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.291797</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.950151</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.950151,37.291797,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>De Anza</name>
+				<description><![CDATA[stopCode: DeAnza<br>Description: The shuttle stop is located in the front driveway of the San Jose Public Library - Calabazas Branch. Please park along S. Blaney Ave. or Rainbow Dr. <br>stopLatitude: 37.303006<br>stopLongitude: -122.023719]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>DeAnza</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located in the front driveway of the San Jose Public Library - Calabazas Branch. Please park along S. Blaney Ave. or Rainbow Dr. </value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.303006</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.023719</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.02371899999999,37.303006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Saratoga </name>
+				<description><![CDATA[stopCode: Saratoga<br>Description: The shuttle stop is located at West Valley College in lot 5. Use lot 6 for overflow. *MUST* get a parking pass from Transportation Office before parking here or you will get a ticket. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.262649<br>stopLongitude: -122.012096]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Saratoga</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at West Valley College in lot 5. Use lot 6 for overflow. *MUST* get a parking pass from Transportation Office before parking here or you will get a ticket. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.262649</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.012096</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.01209600000001,37.262649,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Los Gatos @ Knowles</name>
+				<description><![CDATA[stopCode: Los Gatos2<br>Description: The shuttle stop is located at the VTA bus stop at 375 Knowles Drive. As of 10/19 there is no designated parking, please park on the street. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.261681<br>stopLongitude: -121.964878]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Los Gatos2</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the VTA bus stop at 375 Knowles Drive. As of 10/19 there is no designated parking, please park on the street. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.261681</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.964878</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.964878,37.261681,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Los Gatos @ Gateway</name>
+				<description><![CDATA[stopCode: Los Gatos<br>Description: The shuttle stop is located at the VTA bus stop on Los Gatos Blvd just north of the Gateway Dr intersection, in front of the gas station. There is no designated Google parking at this location. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.246441<br>stopLongitude: -121.957357]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Los Gatos</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the VTA bus stop on Los Gatos Blvd just north of the Gateway Dr intersection, in front of the gas station. There is no designated Google parking at this location. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.246441</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.957357</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.957357,37.246441,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Los Gatos @ Almaden</name>
+				<description><![CDATA[stopCode: Los Gatos1<br>Description: The shuttle stop is located at the VTA bus stop on Los Gatos Blvd just north of the Almaden Rd intersection. There is no designated Google parking at this location. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.2413<br>stopLongitude: -121.960195]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Los Gatos1</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the VTA bus stop on Los Gatos Blvd just north of the Almaden Rd intersection. There is no designated Google parking at this location. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.2413</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.960195</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.960195,37.2413,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>85 &amp; Camden </name>
+				<description><![CDATA[stopCode: 85Camden<br>Description: The shuttle stop is located in front of the P&R lot at Camden Avenue and 85. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.249598<br>stopLongitude: -121.909908]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>85Camden</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located in front of the P&amp;R lot at Camden Avenue and 85. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.249598</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.909908</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.90990799999999,37.249598,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camden-SJCRC</name>
+				<description><![CDATA[stopCode: SJCRCCam<br>Description: The shuttle stop is located in the parking lot of the San Jose Christian Reformed Church. Parking available in the back of the lot. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.245507<br>stopLongitude: -121.90573]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SJCRCCam</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located in the parking lot of the San Jose Christian Reformed Church. Parking available in the back of the lot. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.245507</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.90573</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.90573,37.245507,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ohlone Light Rail </name>
+				<description><![CDATA[stopCode: Ohlone<br>Description: The shuttle stop is located at the VTA bus stop next to the light rail. Please park in any of the spaces in the southern or northwestern part of the park and ride lot. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.257393<br>stopLongitude: -121.860056]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Ohlone</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the VTA bus stop next to the light rail. Please park in any of the spaces in the southern or northwestern part of the park and ride lot. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.257393</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.860056</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.860056,37.257393,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silver Creek Sportsplex </name>
+				<description><![CDATA[stopCode: SCSports<br>Description: The shuttle stop is located on eastbound Embedded Way in front of the Sportsplex parking lot. Please park in the first 50 spaces in the northwest section of the lot closest to Embedded Way or the square section of the lot located in the northwest corner.<br>stopLatitude: 37.267178<br>stopLongitude: -121.794825]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SCSports</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on eastbound Embedded Way in front of the Sportsplex parking lot. Please park in the first 50 spaces in the northwest section of the lot closest to Embedded Way or the square section of the lot located in the northwest corner.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.267178</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.794825</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.794825,37.267178,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Morgan Hill</name>
+				<description><![CDATA[stopCode: MrgHill<br>Description: The shuttle stop is located on Jarvis Dr. on the northeast corner of the office building driveway. Note that there is no Google designated parking in any of the surrounding office complexes. Street parking is permitted on Jarvis. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.14777<br>stopLongitude: -121.655991]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>MrgHill</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Jarvis Dr. on the northeast corner of the office building driveway. Note that there is no Google designated parking in any of the surrounding office complexes. Street parking is permitted on Jarvis. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.14777</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.655991</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.65599099999999,37.14777,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Scotts Valley </name>
+				<description><![CDATA[stopCode: SctsValley<br>Description: The shuttle stop is located at the Enterprise Technology Centre (100 Enterprise Way). Designated parking will be located in the southwest corner of the ETC parking lot. Access to the lot will be via Santas Village Rd. Shuttles will pick up in the lot in the drive lane just south of the designated parking area. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 37.062589<br>stopLongitude: -122.002986]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SctsValley</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the Enterprise Technology Centre (100 Enterprise Way). Designated parking will be located in the southwest corner of the ETC parking lot. Access to the lot will be via Santas Village Rd. Shuttles will pick up in the lot in the drive lane just south of the designated parking area. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.062589</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.002986</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.00298600000002,37.062589,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santa Cruz </name>
+				<description><![CDATA[stopCode: SantaCruz<br>Description: The shuttle stop is located on River Street South, just before the Regal Cinemas Riverfront Stadium Twin. Parking is available for a fee at the River Street Garage located between River Street and Front Street next to the Galleria Office Complex. See "South Bay/Santa Cruz" schedule tab.<br>stopLatitude: 36.975721<br>stopLongitude: -122.024546]]></description>
+				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>SantaCruz</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on River Street South, just before the Regal Cinemas Riverfront Stadium Twin. Parking is available for a fee at the River Street Garage located between River Street and Front Street next to the Galleria Office Complex. See "South Bay/Santa Cruz" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>36.975721</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.024546</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.024546,36.97572100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Berkeley BART</name>
+				<description><![CDATA[stopCode: N.Berkeley<br>Description: The shuttle stop is located in the loading zone located on the EAST side of the Gazebo. See "East Bay" schedule tab.<br>stopLatitude: 37.873448<br>stopLongitude: -122.283604]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>N.Berkeley</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located in the loading zone located on the EAST side of the Gazebo. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.873448</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.283604</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.283604,37.873448,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ashby BART</name>
+				<description><![CDATA[stopCode: AshbyBART<br>Description: The shuttle stop is located on Adeline Dr. on the South bound side at the top of the stairs. See "East Bay" schedule tab.<br>stopLatitude: 37.852893<br>stopLongitude: -122.269962]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>AshbyBART</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Adeline Dr. on the South bound side at the top of the stairs. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.852893</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.269962</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.269962,37.852893,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MacArthur Bart</name>
+				<description><![CDATA[stopCode: MacArthur<br>Description: The shuttle stop is located on 40th Street underneath the freeway overpass. No designated parking at this stop. See "East Bay" schedule tab.<br>stopLatitude: 37.829344<br>stopLongitude: -122.266205]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>MacArthur</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on 40th Street underneath the freeway overpass. No designated parking at this stop. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.829344</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.266205</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.26620500000001,37.829344,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West Oakland BART</name>
+				<description><![CDATA[stopCode: WOBart<br>Description: The shuttle stop is located on 7th Street between Chester Street and Center Street (same side of the street as the BART station). See "East Bay" schedule tab.<br>stopLatitude: 37.805183<br>stopLongitude: -122.294582]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>WOBart</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on 7th Street between Chester Street and Center Street (same side of the street as the BART station). See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.805183</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.294582</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.294582,37.805183,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West Oakland P&amp;R </name>
+				<description><![CDATA[stopCode: WOPR<br>Description: The shuttle stop is located just outside the Park & Ride on Adeline Street. The Park & Ride lot is at 7th Street and Adeline Street. Enter the lot, turn right, and park as far down the lot as possible. See "East Bay" schedule tab.<br>stopLatitude: 37.803382<br>stopLongitude: -122.288437]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>WOPR</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located just outside the Park &amp; Ride on Adeline Street. The Park &amp; Ride lot is at 7th Street and Adeline Street. Enter the lot, turn right, and park as far down the lot as possible. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.803382</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.288437</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.288437,37.803382,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fruitvale BART</name>
+				<description><![CDATA[stopCode: Fruitvale<br>Description: The shuttle stop is located on 34th Avenue, where it intersects with the bus terminal. See "East Bay" schedule tab.<br>stopLatitude: 37.775084<br>stopLongitude: -122.224815]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Fruitvale</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on 34th Avenue, where it intersects with the bus terminal. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.775084</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.224815</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.224815,37.775084,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>High St. @ Bayo Vista </name>
+				<description><![CDATA[stopCode: BayoVista<br>Description: The shuttle stop is located on the west side of High Street at Bayo Vista. See "East Bay" schedule tab.<br>stopLatitude: 37.76245<br>stopLongitude: -122.227396]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>BayoVista</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on the west side of High Street at Bayo Vista. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.76245</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.227396</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.22739599999998,37.76245,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>High St. @ Otis </name>
+				<description><![CDATA[stopCode: Otis<br>Description: The shuttle stop is located on the west side of High Street, just before the intersection with Otis. See "East Bay" schedule tab.<br>stopLatitude: 37.752055<br>stopLongitude: -122.23886]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Otis</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on the west side of High Street, just before the intersection with Otis. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.752055</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.23886</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.23886,37.752055,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Island Drive P&amp;R </name>
+				<description><![CDATA[stopCode: IslandPR<br>Description: The shuttle stop is located at the bus stop on Island Drive in front of the Park & Ride. See "East Bay" schedule tab.<br>stopLatitude: 37.74541<br>stopLongitude: -122.236413]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>IslandPR</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the bus stop on Island Drive in front of the Park &amp; Ride. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.74541</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.236413</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.236413,37.74541,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sequoyah Church </name>
+				<description><![CDATA[stopCode: Sequoyah<br>Description: The shuttle stop is located on Keller. Directions: Sequoyah Community Church has a parking lot entry gate that requires a security code for entering cars. That security code is 0316. Weight sensors will detect exiting cars and open the gate automatically. Park on the east side of the lot away from the Church building.  See "East Bay" schedule tab.<br>stopLatitude: 37.770269<br>stopLongitude: -122.150465]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Sequoyah</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Keller. Directions: Sequoyah Community Church has a parking lot entry gate that requires a security code for entering cars. That security code is 0316. Weight sensors will detect exiting cars and open the gate automatically. Park on the east side of the lot away from the Church building.  See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.770269</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.150465</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.150465,37.770269,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Neighborhood Church</name>
+				<description><![CDATA[stopCode: NHChurch<br>Description: Shuttle pick up is located in the parking lot of the Neighborhood Church. See "East Bay" schedule tab.<br>stopLatitude: 37.692146<br>stopLongitude: -122.093995]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>NHChurch</value>
+					</Data>
+					<Data name='Description'>
+						<value>Shuttle pick up is located in the parking lot of the Neighborhood Church. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.692146</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.093995</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.093995,37.692146,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Danville P&amp;R</name>
+				<description><![CDATA[stopCode: Danville<br>Description: The shuttle stop is located at the Park & Ride lot at the corner of 680 and Sycamore Valley Road.<br>stopLatitude: 37.812539<br>stopLongitude: -121.99193]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Danville</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the Park &amp; Ride lot at the corner of 680 and Sycamore Valley Road.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.812539</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.99193</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.99193,37.812539,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pleasanton</name>
+				<description><![CDATA[stopCode: Pleasanton<br>Description: The shuttle stop is located in the southeast corner of the lot. Directions: Pleasanton Alameda Fairgrounds - Hwy 680 Southbound exit on Bernal Avenue (Keep to the right lane) - Turn Left on Valley Avenue (Third Traffic Light) - Make a right turn at Gate 12 (First traffic light, second gate) - Then make an immediate right turn into the first parking lot entrance (The off track betting facility), proceed to the southeast corner of the lot and park near posts D or E. Please ignore the "No Parking" signs. See "East Bay" schedule tab.<br>stopLatitude: 37.661609<br>stopLongitude: -121.895092]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Pleasanton</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located in the southeast corner of the lot. Directions: Pleasanton Alameda Fairgrounds - Hwy 680 Southbound exit on Bernal Avenue (Keep to the right lane) - Turn Left on Valley Avenue (Third Traffic Light) - Make a right turn at Gate 12 (First traffic light, second gate) - Then make an immediate right turn into the first parking lot entrance (The off track betting facility), proceed to the southeast corner of the lot and park near posts D or E. Please ignore the "No Parking" signs. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.661609</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.895092</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.895092,37.661609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Union City Bart</name>
+				<description><![CDATA[stopCode: Unionbart<br>Description: The shuttle stop is located in front of the BART station in the middle of the bus zone. See "East Bay" schedule tab.<br>stopLatitude: 37.59035<br>stopLongitude: -122.017202]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Unionbart</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located in front of the BART station in the middle of the bus zone. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.59035</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.017202</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.017202,37.59035,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Union City</name>
+				<description><![CDATA[stopCode: Unioncity<br>Description: The shuttle stop is located outside Lot 2 behind the Union City BART station. If you will be driving, designated parking is in Lot 2 and hangtags must be displayed. See "East Bay" schedule tab.<br>stopLatitude: 37.592417<br>stopLongitude: -122.017143]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Unioncity</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located outside Lot 2 behind the Union City BART station. If you will be driving, designated parking is in Lot 2 and hangtags must be displayed. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.592417</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.017143</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.01714300000002,37.592417,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fremont BART </name>
+				<description><![CDATA[stopCode: Fremont<br>Description: The shuttle stop is located at the Fremont BART station on the north east side. See "East Bay" schedule tab.<br>stopLatitude: 37.557236<br>stopLongitude: -121.975421]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Fremont</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the Fremont BART station on the north east side. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.557236</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.975421</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.97542100000001,37.557236,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Newark P&amp;R </name>
+				<description><![CDATA[stopCode: Newark<br>Description: The shuttle stop is located at Google's designated parking area on the west side of the Lido Faire Shopping Center driveway entrance in front of Fitness 2000 next to the Bank of the West. Do not park on the Popeye's side of the driveway entrance. See "East Bay" schedule tab.<br>stopLatitude: 37.549447<br>stopLongitude: -122.047838]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>Newark</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at Google's designated parking area on the west side of the Lido Faire Shopping Center driveway entrance in front of Fitness 2000 next to the Bank of the West. Do not park on the Popeye's side of the driveway entrance. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.549447</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-122.047838</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.04783799999998,37.549447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>680 &amp; 238 P&amp;R </name>
+				<description><![CDATA[stopCode: 680/238<br>Description: The shuttle stop is located at the bottom of the stairs from the P&R lot on Mission Blvd at the shuttle cut out. Directions: Park & Ride is located at the intersection of 238(Mission Blvd) and 680, next to McDonald's. See "East Bay" schedule tab.<br>stopLatitude: 37.54016<br>stopLongitude: -121.923944]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>680/238</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located at the bottom of the stairs from the P&amp;R lot on Mission Blvd at the shuttle cut out. Directions: Park &amp; Ride is located at the intersection of 238(Mission Blvd) and 680, next to McDonald's. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.54016</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.923944</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.92394399999999,37.54016,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Milpitas Town Center AM</name>
+				<description><![CDATA[stopCode: MilpitasAM<br>Description: The shuttle stop is located on Calaveras Blvd at the bus stop by Big 5 Sporting Goods. No parking at this location. See "East Bay" schedule tab.<br>stopLatitude: 37.433329<br>stopLongitude: -121.894813]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>MilpitasAM</value>
+					</Data>
+					<Data name='Description'>
+						<value>The shuttle stop is located on Calaveras Blvd at the bus stop by Big 5 Sporting Goods. No parking at this location. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.433329</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.894813</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.894813,37.433329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Milpitas Calvary Assembly</name>
+				<description><![CDATA[stopCode: MilpitasCA<br>Description: The Shuttle Stop is located at the front of the Building, Designated parking is the first row of Parking spots to the left after the Entrance. See "East Bay" schedule tab.<br>stopLatitude: 37.437172<br>stopLongitude: -121.870096]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>MilpitasCA</value>
+					</Data>
+					<Data name='Description'>
+						<value>The Shuttle Stop is located at the front of the Building, Designated parking is the first row of Parking spots to the left after the Entrance. See "East Bay" schedule tab.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.437172</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.870096</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.870096,37.437172,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Milpitas Town Center - PM</name>
+				<description><![CDATA[stopCode: MilpitasPM<br>Description: Drop off is at the Parking Lot infront of Shell Gas Station going Eastbound.<br>stopLatitude: 37.433753<br>stopLongitude: -121.891992]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value>MilpitasPM</value>
+					</Data>
+					<Data name='Description'>
+						<value>Drop off is at the Parking Lot infront of Shell Gas Station going Eastbound.</value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value>37.433753</value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value>-121.891992</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-121.89199200000002,37.433753,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1600 Amphitheatre Pkwy</name>
+				<description><![CDATA[stopCode: <br>Description: <br>stopLatitude: <br>stopLongitude: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='stopCode'>
+						<value></value>
+					</Data>
+					<Data name='Description'>
+						<value></value>
+					</Data>
+					<Data name='stopLatitude'>
+						<value></value>
+					</Data>
+					<Data name='stopLongitude'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.08419640000001,37.42236070000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Campus Shuttle Stops</name>
+			<Placemark>
+				<name>Tech Corners</name>
+				<description><![CDATA[Located in the loop]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.03144700000001,37.4043323,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>QD Fairchild
+</name>
+				<styleUrl>#icon-503-CCCCCC-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.05651759999999,37.4044431,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>QD Quad 1/2
+</name>
+				<styleUrl>#icon-503-CCCCCC-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.0536798,37.3994188,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>QD Quad 4/6
+</name>
+				<styleUrl>#icon-503-CCCCCC-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.0569843,37.3988819,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MTV 1255 Pear
+</name>
+				<styleUrl>#icon-503-CCCCCC-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.07488270000002,37.4145588,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MTV 1365 Shorebird</name>
+				<description><![CDATA[AM Stop on Shorebird in front of SB65]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.07303460000001,37.4186852,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MTV 1210 Charleston
+</name>
+				<styleUrl>#icon-503-CCCCCC-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.07224610000002,37.4205726,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MTV 1200 Crittenden</name>
+				<description><![CDATA[Stop is located on the south side of CL3/CL2]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.07167210000001,37.4255699,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MTV B40/43
+</name>
+				<styleUrl>#icon-503-CCCCCC-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.08302050000002,37.4220616,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MTV B45 PM</name>
+				<description><![CDATA[Stop on Huff on the south side of the B45/46 driveway]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.0823473,37.419535200000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MTV Charleston @ Huff - NE</name>
+				<description><![CDATA[The shuttle stop is located on the NE corner of Charleston Rd. and Huff Ave.]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.08273349999999,37.420907,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MTV B44 AM</name>
+				<description><![CDATA[Located on the east side of Huff, south of Charleston]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.0832431,37.4207323,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MTV B1950 PM
+</name>
+				<styleUrl>#icon-503-CCCCCC-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.08859680000002,37.4220104,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MTV B1950 AM</name>
+				<description><![CDATA[Stop is located on Charleston @ Landings in front of B1965]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.0888972,37.4216078,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MTV B1945 AM</name>
+				<description><![CDATA[Located in the SE corner of the 1945 parking lot. AM pick up ONLY, 6:00 AM - 10:00 AM]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.08993260000001,37.4231671,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MTV GWC AM</name>
+				<description><![CDATA[Stop is located on Garcia Avenue between GWC 1/2]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.09180470000001,37.4247327,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MTV GWC 4/6</name>
+				<description><![CDATA[Located in the PM shuttle stop on the south side of GWC4/GWC6. AM Located in the AM shuttle stop drop-off.]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.09459160000002,37.4238317,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Rails</name>
+				<description><![CDATA[Stop is located on the southwest side of RLS1]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.105999,37.4081248,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NEST Miranda</name>
+				<description><![CDATA[Pick up is at the VTA stop Westbound on Miranda in Front of the R&T Center. Eastbound Pick up is at the VTA stop Eastbound on Miranda]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.1378422,37.4005055,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NEST Hillview</name>
+				<description><![CDATA[Located in front of B1]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.14797019999999,37.40434930000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>YouTube</name>
+				<description><![CDATA[The shuttle stop is located at 901 Cherry Avenue]]></description>
+				<styleUrl>#icon-503-CCCCCC</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.4257183,37.6278706,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-009D57-normal'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-009D57-highlight'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-009D57'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-009D57-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-009D57-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-3F5BA9-normal'>
+			<IconStyle>
+				<color>ffA95B3F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-3F5BA9-highlight'>
+			<IconStyle>
+				<color>ffA95B3F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-3F5BA9'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-3F5BA9-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-3F5BA9-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-7C3592-normal'>
+			<IconStyle>
+				<color>ff92357C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-7C3592-highlight'>
+			<IconStyle>
+				<color>ff92357C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-7C3592'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-7C3592-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-7C3592-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-CCCCCC-normal'>
+			<IconStyle>
+				<color>ffCCCCCC</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-CCCCCC-highlight'>
+			<IconStyle>
+				<color>ffCCCCCC</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-CCCCCC'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-CCCCCC-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-CCCCCC-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-CCCCCC-nodesc-normal'>
+			<IconStyle>
+				<color>ffCCCCCC</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-CCCCCC-nodesc-highlight'>
+			<IconStyle>
+				<color>ffCCCCCC</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-CCCCCC-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-CCCCCC-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-CCCCCC-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-F4EB37-normal'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-F4EB37-highlight'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-F4EB37'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-F4EB37-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-F4EB37-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
